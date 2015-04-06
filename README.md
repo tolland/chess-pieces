@@ -9,6 +9,9 @@ The background is that I've been recently learning freecad and one of the projec
 
 But it reminded me of the electronic chess games that I played as a kid. It gave me the idea of a sort of cross discipline collaboration project amongst the various groups at the hackspace.
 
+![Image of electronic chess board](https://github.com/tolland/chess-pieces/blob/master/media/Westrak_Computer_Chess__7__25_x_25.JPG?raw=true)
+
+
 
 
 
