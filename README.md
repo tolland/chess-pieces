@@ -5,6 +5,8 @@ This is an idea for a collaborative dev project between various hackspace groups
 
 The background is that I've been recently learning freecad and one of the projects was to design and produce a 3d printed chess set. Once I'd done that, the obvious thing was to make a chess board on the laser cutter, and that came out ok. But it suggests numerous incremental improvements, most of which are fairly self contained, or in a linear path of development.
 
+![Image of 3d printed pieces, laser cut board](https://farm8.staticflickr.com/7617/16416850174_e6f2cb3930_z.jpg)
+
 But it reminded me of the electronic chess games that I played as a kid. It gave me the idea of a sort of cross discipline collaboration project amongst the various groups at the hackspace.
 
 
