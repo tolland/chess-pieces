@@ -10,7 +10,6 @@ The background is that I've been recently learning freecad and one of the projec
 - lcd to show game status
 - microcontroller with chess rules logic
 - some rudimentary "computer opponent"
-- 
 
 ![Image of 3d printed pieces, laser cut board](https://farm8.staticflickr.com/7617/16416850174_e6f2cb3930_z.jpg)
 
